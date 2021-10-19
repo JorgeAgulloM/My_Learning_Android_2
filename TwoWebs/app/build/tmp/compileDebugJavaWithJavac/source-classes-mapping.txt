@@ -1,0 +1,18 @@
+com/example/twowebs/Web.java
+ com.example.twowebs.Web
+com/example/twowebs/WebList.java
+ com.example.twowebs.WebList
+com/example/twowebs/BuildConfig.java
+ com.example.twowebs.BuildConfig
+com/example/twowebs/Web1Fragment.java
+ com.example.twowebs.Web1Fragment
+ com.example.twowebs.Web1Fragment$1
+com/example/twowebs/Web2Fragment.java
+ com.example.twowebs.Web2Fragment
+ com.example.twowebs.Web2Fragment$1
+com/example/twowebs/StartFragment.java
+ com.example.twowebs.StartFragment
+com/example/twowebs/MainActivity.java
+ com.example.twowebs.MainActivity
+com/example/twowebs/Dialog.java
+ com.example.twowebs.Dialog

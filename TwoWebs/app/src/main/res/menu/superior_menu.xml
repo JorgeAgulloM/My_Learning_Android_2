@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <group
+        android:id="@+id/groupMenu_0">
+
+         <item
+             android:id="@+id/favorites"
+             android:visible="true"
+             android:icon="@drawable/ic_baseline_star_border_24"
+             app:showAsAction="ifRoom"
+             android:title="@string/menu"
+             />
+        <item
+            android:id="@+id/reloadWeb"
+            android:icon="@drawable/ic_baseline_autorenew_24"
+            app:showAsAction="ifRoom"
+            android:title="@string/reload_web" />
+    </group>
+
+    <group
+        android:id="@+id/groupMenu_1">
+        <item
+            android:id="@+id/list_item"
+            android:orderInCategory="0"
+            android:enabled="false"
+            android:title="@string/app_name"
+            />
+
+    </group>
+
+
+</menu>

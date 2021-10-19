@@ -1,0 +1,38 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">TwoWebs</string>
+    <string name="otherWeb">Write another address</string>
+    <string name="goToWebs">Go to the webs</string>
+    <string name="oneWeb">Write an address</string>
+    <string name="empty" />
+    <string name="demo">Webs for demo</string>
+    <string name="snackText">First enter the websites to visit</string>
+    <string name="snackTextQuest">Back to Main?</string>
+    <string name="bienvenido">WELCOME TO</string>
+    <string name="webs_Ok">You can now access the web. You can use the drop-down menu to move around the app.</string>
+    <string name="goWeb1">Go to web 1</string>
+    <string name="goWeb2">Go to Web 2</string>
+    <string name="cancel">Cancel</string>
+    <string name="main">Main</string>
+    <string name="web1">Web 1</string>
+    <string name="web2">Web 2</string>
+    <string name="favorites_list">Favorites List</string>
+    <string name="reload_web">Reload Web</string>
+    <string name="menu">Menu</string>
+    <string name="fav_text">Add to favorites</string>
+    <string name="reloadWebText">Reload Web</string>
+    <string name="reloadWeb1">Reload web 1</string>
+    <string name="reloadWeb2">Reload web 2</string>
+    <string name="eraseWebs">Delete webs</string>
+    <string name="onlyUseinWebs">You can only use me on a web screen</string>
+    <string name="webExist">The web is already in favorites</string>
+    <string name="useMeInMain">Use me at Main</string>
+    <string name="error">Error</string>
+    <string name="exitconfirm">Press again to exit</string>
+    <string name="fill_text">Fill in the field</string>
+    <string name="load">Loading...</string>
+    <string-array name="Views">
+        <item>Main</item>
+        <item>web 1</item>
+        <item>web 2</item>
+    </string-array>
+</resources>

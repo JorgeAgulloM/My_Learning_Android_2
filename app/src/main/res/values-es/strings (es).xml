@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TwoWebs</string>
+    <string name="otherWeb">Escribe otra dirección web</string>
+    <string name="goToWebs">Ir a las web</string>
+    <string name="oneWeb">Escribe una dirección web</string>
+    <string name="empty" />
+    <string name="demo">Webs para demo</string>
+    <string name="snackText">Introduce primero las web a visitar</string>
+    <string name="snackTextQuest">¿Ir a início?</string>
+    <string name="bienvenido">BIENVENIDO A</string>
+    <string name="webs_Ok">Ya puedes acceder a las webs. Puedes usar el menú desplegable para moverte por la app.</string>
+    <string name="goWeb1">Ir a web 1</string>
+    <string name="goWeb2">Ir a Web 2</string>
+    <string name="cancel">Cancelar</string>
+    <string name="main">Início</string>
+    <string name="web1">Web 1</string>
+    <string name="web2">Web 2</string>
+    <string name="favorites_list">Lista de favoritos</string>
+    <string name="reload_web">Recargar Web</string>
+    <string name="menu">Menú</string>
+    <string name="fav_text">Añadida a favoritos</string>
+    <string name="reloadWebText">Recargar Web</string>
+    <string name="reloadWeb1">Recargar web 1</string>
+    <string name="reloadWeb2">Recargar web 2</string>
+    <string name="eraseWebs">Borar webs</string>
+    <string name="onlyUseinWebs">Solo puedes usarme en una pantalla web</string>
+    <string name="webExist">La web ya está en favoritos</string>
+    <string name="useMeInMain">Utilízame en inicio</string>
+    <string name="error">Error</string>
+    <string name="exitconfirm">Pulsa de nuevo para salir</string>
+    <string name="fill_text">Rellena el campo</string>
+    <string name="load">Cargando...</string>
+    <string-array name="Views">
+        <item>Início</item>
+        <item>web 1</item>
+        <item>web 2</item>
+    </string-array>
+</resources>
